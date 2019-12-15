@@ -203,4 +203,4 @@ $(".refresh-background", ".refresh").click(function () {
   $("body").addClass("img".concat(backgroundIndex));
 });
 },{}]},{},["epB2"], null)
-//# sourceMappingURL=https://github.com/onetoad/nav/dist/main.38c122ef.js.map
+//# sourceMappingURL=https://onetoad.github.io/nav/dist/main.38c122ef.js.map
